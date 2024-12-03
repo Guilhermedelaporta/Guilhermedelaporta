@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme De La Porta 
+# Guilherme De La Porta 
 
 **`Desenvolvedor Front-End`**
 
