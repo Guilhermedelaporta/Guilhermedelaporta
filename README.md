@@ -23,7 +23,7 @@ Tenho grande interesse em **SaaS, IoT, Inteligência Artificial e aplicações C
 ✅ Obter minha **primeira experiência profissional** na área de desenvolvimento.
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Seu Perfil](#)
+- **LinkedIn:** [https://www.linkedin.com/in/guilhermedelaportamartins/](#)
 - **GitHub:** [@guilhermedelaporta](#)
 - **E-mail:** guilherme01dev@gmail.com 
 
