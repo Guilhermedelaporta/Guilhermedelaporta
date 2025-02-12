@@ -1,7 +1,7 @@
 # Olá! Eu sou Guilherme de La Porta Martins 👋
 
 ### 💻 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** e participando do programa **Oracle Next Education (ONE) em parceria com a Alura**. Além disso, me formei como **Desenvolvedor Front-End pelo Senac** e estou concluindo o curso técnico em **Python com especialidade em Django pelo Senac RS**.
+Sou um desenvolvedor apaixonado por tecnologia, atualmente participando do programa **Oracle Next Education (ONE) em parceria com a Alura**. Além disso, me formei como **Desenvolvedor Front-End pelo Senac RS** e estou concluindo o curso técnico em **Python com especialidade em Django pelo Senac RS**.
 
 Tenho grande interesse em **SaaS, IoT, Inteligência Artificial e aplicações Cloud**. Meu objetivo é construir soluções inovadoras e eficientes, sempre buscando as melhores práticas do desenvolvimento de software.
 
