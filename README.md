@@ -1,41 +1,31 @@
-# Guilherme De La Porta 
+# Olá! Eu sou Guilherme de La Porta Martins 👋
 
-**`Desenvolvedor Front-End`**
+### 💻 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** e participando do programa **Oracle Next Education (ONE) em parceria com a Alura**. Além disso, me formei como **Desenvolvedor Front-End pelo Senac** e estou concluindo o curso técnico em **Python com especialidade em Django pelo Senac RS**.
 
-Me chamo Guilherme, tenho 22 anos e sou natural do Rio Grande do Sul. 
+Tenho grande interesse em **SaaS, IoT, Inteligência Artificial e aplicações Cloud**. Meu objetivo é construir soluções inovadoras e eficientes, sempre buscando as melhores práticas do desenvolvimento de software.
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Tecnologias e Ferramentas
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap
+- **Back-end:** Python, Django
+- **Banco de Dados:** PostgreSQL, SQLite
+- **Ferramentas:** Git, GitHub VS Code
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 📌 Projetos em destaque
+- **[Gerenciador de Tarefas para Equipes](#)** - Aplicação web para organização de tarefas em equipe sem uso do Django REST Framework.
+- **[SaaS para Academias](#)** - Plataforma para administração de academias utilizando Python e Django.
+- **[Organizador de Estudos](#)** - Ferramenta para planejamento de estudos, tarefas e acompanhamento semanal com gráficos interativos.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🎯 Metas para 2025
+✅ Construir um portfólio diversificado demonstrando habilidades em **full-stack e cloud**.
+✅ Melhorar fluência em **inglês técnico** para programação.
+✅ Aprimorar conhecimento em **arquitetura de software e padrões de projeto**.
+✅ Obter minha **primeira experiência profissional** na área de desenvolvimento.
+
+### 📫 Como me encontrar
+- **LinkedIn:** [Seu Perfil](#)
+- **GitHub:** [@guilhermedelaporta](#)
+- **E-mail:** guilherme01dev@gmail.com 
+
+---
+🚀 Sempre aprendendo e evoluindo! Se você quiser trocar ideias ou colaborar em projetos, sinta-se à vontade para entrar em contato! 😃
